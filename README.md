@@ -2,7 +2,7 @@
 ## Shawn Morgan
 
 * ['Code-Quiz GitHub'](https://github.com/Shawn-Morgan/HW04-Web-APIs-Code-Quiz)
-* ['Code-Quiz GitHub IO'](https://github.com/Shawn-Morgan/HW04-Web-APIs-Code-Quiz/blob/master/index.html)
+* ['Code-Quiz GitHub IO'](https://shawn-morgan.github.io/HW04-Web-APIs-Code-Quiz/)
 
 ### Summary
 Built Code Quiz prototype using html, javascript and css with bootstrap
